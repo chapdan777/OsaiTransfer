@@ -1,0 +1,12 @@
+# Python / PyInstaller / OS
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+build/
+dist/
+*.spec
+*.log
+.DS_Store
+Thumbs.db
